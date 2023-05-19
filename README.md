@@ -9,7 +9,7 @@
 
 <a href="https://steamcommunity.com/profiles/76561198108434114/" target="_blank"  rel="noopener noreferrer"><img align="left" alt="" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg"></a>
 <br />  
-<br />  
+
 
 ### Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />
@@ -27,7 +27,7 @@
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" />
 <br />    
-<br />  
+
 
 
 
