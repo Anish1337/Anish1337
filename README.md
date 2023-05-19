@@ -16,8 +16,9 @@
 <!--- <img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" /> --->
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" />
-<br />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" />
+<!--- End of file --->
+<br />
 
 
 
