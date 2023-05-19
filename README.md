@@ -1,7 +1,7 @@
 ### Hi there  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-* 🔭 I am currently working on several data science projects.
-* 🌱 I am currently learning tableau, flask, and plotly.
-* 💬 Ask me about video games, badminton, or chess.
+* 🔭 Working on several data science projects.
+* 🌱 Learning tableau, flask, and plotly.
+* ⚡ My hobbies include video games, badminton, and chess.
 #### 📫 How to reach me: 
 <a href="mailto:anishtiwari425@gmail.com" target="_blank" rel="noopener noreferrer"><img align="left" alt="" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>
 
@@ -21,8 +21,8 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" />
 <img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Dark.svg" />
 <img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" />
-<!--- <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://git-scm.com/images/logos/downloads/Git-Icon-Black.svg" /> --->
-<!--- <img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" /> --->
+ <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://git-scm.com/images/logos/downloads/Git-Icon-Black.svg" 
+<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" /> 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" />
