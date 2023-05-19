@@ -13,6 +13,7 @@
 <a href="https://discordapp.com/users/1095804052459245609" target="_blank"  rel="noopener noreferrer"><img align="left" alt="" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353655/discord-icon.svg"></a>
 <br />  
 <br />  
+  
 ### Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg" />
@@ -29,9 +30,6 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" />
 <br />    
 <br />    
-
-
-
 
 ![](https://komarev.com/ghpvc/?username=Anish1337&color=brightgreen) <br />  
 
