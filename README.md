@@ -2,7 +2,7 @@
 * 🔭 I am currently working on several data science projects.
 * 🌱 I am currently learning tableau, flask, and plotly.
 * 💬 Ask me about video games, badminton, or chess.
-* ⚡ Fun fact: fun fact goes here
+
 
 <br />    
 <br />  
