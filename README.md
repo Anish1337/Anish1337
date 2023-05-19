@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<br />
+
 ### Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg" />
