@@ -8,9 +8,11 @@
 <a href="https://www.linkedin.com/in/anish-tiwari--/" target="_blank"  rel="noopener noreferrer"><img align="left" alt="" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>
 
 <a href="https://steamcommunity.com/profiles/76561198108434114/" target="_blank"  rel="noopener noreferrer"><img align="left" alt="" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg"></a>
+
+
+<a href="https://discordapp.com/users/1095804052459245609" target="_blank"  rel="noopener noreferrer"><img align="left" alt="" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353655/discord-icon.svg"></a>
 <br />  
-
-
+<br />  
 ### Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg" />
