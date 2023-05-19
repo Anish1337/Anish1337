@@ -23,7 +23,7 @@
 
 ### Contact info
 
-<a href="link address"><img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="image destination"></a>
+<a href="link address"><img align="left" alt="" width="30px" style="padding-right:10px;" src="image destination"></a>
 
 
 ![](https://komarev.com/ghpvc/?username=Anish1337&color=brightgreen) <br />  
