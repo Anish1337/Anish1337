@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+* I am currently working on several data science projects.
+* 
 
 
 ### Languages and Tools
