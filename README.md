@@ -22,11 +22,11 @@
 <br />  
 
 ### Contact info
-<a href="mailto:anishtiwari425@gmail.com" target="_blank"><img align="left" alt="" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>
+<a href="mailto:anishtiwari425@gmail.com" target="_blank" rel="noopener noreferrer"><img align="left" alt="" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>
 
-<a href="https://www.linkedin.com/in/anish-tiwari--/" target="_blank"><img align="left" alt="" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>
+<a href="https://www.linkedin.com/in/anish-tiwari--/" target="_blank"  rel="noopener noreferrer"><img align="left" alt="" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>
 
-<a href="https://steamcommunity.com/profiles/76561198108434114/" target="_blank"><img align="left" alt="" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg"></a>
+<a href="https://steamcommunity.com/profiles/76561198108434114/" target="_blank"  rel="noopener noreferrer"><img align="left" alt="" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg"></a>
 <br />    
 <br />  
 
