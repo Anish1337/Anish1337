@@ -1,6 +1,16 @@
 ### Hi there  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-* I am currently working on several data science projects.
+* 🔭 I am currently working on several data science projects.
+* 🌱 I am currently learning tableau, flask, and plotly.
+* 💬 Ask me about video games, badminton, or chess.
+* ⚡ Fun fact: fun fact goes here
+📫 How to reach me: 
+<a href="mailto:anishtiwari425@gmail.com" target="_blank" rel="noopener noreferrer"><img align="left" alt="" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>
 
+<a href="https://www.linkedin.com/in/anish-tiwari--/" target="_blank"  rel="noopener noreferrer"><img align="left" alt="" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>
+
+<a href="https://steamcommunity.com/profiles/76561198108434114/" target="_blank"  rel="noopener noreferrer"><img align="left" alt="" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg"></a>
+<br />    
+<br />  
 
 
 ### Languages and Tools
@@ -21,14 +31,6 @@
 <br />    
 <br />  
 
-### Contact info
-<a href="mailto:anishtiwari425@gmail.com" target="_blank" rel="noopener noreferrer"><img align="left" alt="" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>
-
-<a href="https://www.linkedin.com/in/anish-tiwari--/" target="_blank"  rel="noopener noreferrer"><img align="left" alt="" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>
-
-<a href="https://steamcommunity.com/profiles/76561198108434114/" target="_blank"  rel="noopener noreferrer"><img align="left" alt="" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg"></a>
-<br />    
-<br />  
 
 
 ![](https://komarev.com/ghpvc/?username=Anish1337&color=brightgreen) <br />  
