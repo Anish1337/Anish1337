@@ -22,6 +22,7 @@
 <br />  
 
 ### Contact info
+[![name](link to image on GH)](link to your URL)
 
 
 ![](https://komarev.com/ghpvc/?username=Anish1337&color=brightgreen) <br />  
