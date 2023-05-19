@@ -20,12 +20,13 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" />
 <!--- End of file --->
 <br />    
+<br />  
 ### Contact info
  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/profiles/76561198108434114)  &nbsp;
   &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://linkedin.com/in/anish-tiwari--)  &nbsp;
   
 <br />  
-
+<br />  
 ![](https://komarev.com/ghpvc/?username=Anish1337&color=brightgreen) <br />  
 
 
