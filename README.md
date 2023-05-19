@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=Anish1337&color=brightgreen)
+
 <br />
 ### Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />
@@ -20,6 +20,7 @@
 <!--- End of file --->
 <br />
 
+![](https://komarev.com/ghpvc/?username=Anish1337&color=brightgreen)
 
 
 
