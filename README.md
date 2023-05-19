@@ -22,7 +22,8 @@
 <br />  
 
 ### Contact info
-[![name](link to image on GH)](link to your URL)
+
+[![name](https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg)](https://steamcommunity.com/profiles/76561198108434114)
 
 
 ![](https://komarev.com/ghpvc/?username=Anish1337&color=brightgreen) <br />  
