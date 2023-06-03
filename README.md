@@ -9,7 +9,7 @@
 
 <a href="https://steamcommunity.com/id/4nish-/" target="_blank"  rel="noopener noreferrer"><img align="left" alt="" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg"></a>
 
-<a href="https://www.chess.com/member/4nisht" target="_blank"  rel="noopener noreferrer"><img align="left" alt="" width="30px" style="padding-right:10px;" src="https://www.clipartmax.com/middle/m2i8m2A0N4K9d3Z5_chess-com-chess-com-profile/"></a>
+<a href="https://www.chess.com/member/4nisht" target="_blank"  rel="noopener noreferrer"><img align="left" alt="" width="30px" style="padding-right:10px;" src="https://commons.wikimedia.org/wiki/File:Font_Awesome_5_solid_chess-pawn.svg"></a>
 
 
 <a href="https://discordapp.com/users/1095804052459245609" target="_blank"  rel="noopener noreferrer"><img align="left" alt="" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353655/discord-icon.svg"></a>
