@@ -1,7 +1,7 @@
 ### Hi there  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 * 🔭 Working on several data science projects.
 * 🌱 Learning tableau, sql, and plotly.
-* ⚡ My hobbies include video games, badminton, and chess.
+* ⚡ My hobbies include video games, badminton, and reading.
 #### 📫 How to reach me: 
 <a href="mailto:anishtiwari425@gmail.com" target="_blank" rel="noopener noreferrer"><img align="left" alt="" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>
 
