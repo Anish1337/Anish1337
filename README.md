@@ -1,4 +1,4 @@
-### Hi there  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+### Hi there ###
 * 🔭 Working on several data science projects.
 * 🌱 Learning tableau, sql, and plotly.
 * ⚡ My hobbies include video games, badminton, and chess.
@@ -20,7 +20,6 @@
 <img align="left" alt="Nvim" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NeoVim-Dark.svg"/>
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" />
-<img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Dark.svg" />
 <img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" />
 <img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg"> 
 
