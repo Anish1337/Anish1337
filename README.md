@@ -1,4 +1,4 @@
-### Hi there ###
+
 #### 📫 How to reach me: 
 <a href="mailto:anishtiwari425@gmail.com" target="_blank" rel="noopener noreferrer"><img align="left" alt="" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>
 
