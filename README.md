@@ -15,15 +15,8 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" />
 <img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" />
 <img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"> 
-<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"> 
+<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg">  
 
-
-
-
-<br />    
-<br />    
-
-![](https://komarev.com/ghpvc/?username=Anish1337&color=brightgreen) <br />  
 
 
 
