@@ -1,6 +1,6 @@
 ### Hi there ###
 * 🌱 Working on several data science projects.
-* 🧠 Learning TensorFlow, SQL, and SAS.  
+* 🧠 Learning TensorFlow, SQL and SAS.  
 * ⚡ My hobbies include video games, badminton, reading, and chess.
   
 #### 📫 How to reach me: 
