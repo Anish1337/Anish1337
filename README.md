@@ -1,4 +1,4 @@
-### Hey there!###
+### Hey there!
 
 * 🌱 Working on several data science projects.
 * 🧠 Learning TensorFlow, SQL, and SAS.  
