@@ -36,12 +36,12 @@
   <img width=390 src="https://github-readme-stats-anish.vercel.app/?user=Ansih1337&count_private=true&theme=midnight-purple&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-anish.vercel.app/api?username=Anish1337&count_private=true&show_icons=true&theme=midnight-purple&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-anish.vercel.app/api/top-langs/?username=Anish1337&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-anish.vercel.app/api/top-langs/?username=Anish1337&hide=HTML&langs_count=8&layout=compact&theme=midnight-purple&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 
 <br/><br/>
 [![Top Langs](https://github-readme-stats-anish.vercel.app/api/top-langs/?username=Anish1337&layout=pie&theme=midnight-purple)](https://github.com/Anish1337/github-readme-stats)
-![Anish's GitHub stats](https://github-readme-stats-anish.vercel.app/api?username=Anish1337&theme=midnight-purple&hide=contribs,prs)
+<>![Anish's GitHub stats](https://github-readme-stats-anish.vercel.app/api?username=Anish1337&theme=midnight-purple&hide=contribs,prs)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Anish1337&theme=midnight-purple)](https://git.io/streak-stats)
 <hr/>
