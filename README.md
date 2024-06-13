@@ -25,5 +25,5 @@
 <img align="left" alt="cpp" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg">  
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg">  
 
-
+![snake gif](https://github.com/Anish1337/Anish1337/blob/output/github-contribution-grid-snake.gif)
 
