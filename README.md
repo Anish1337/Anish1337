@@ -34,7 +34,7 @@
 
 
 <br/><br/>
-[![Top Langs](github-readme-stats-anish.vercel.app/api/top-langs/?username=Anish1337&layout=pie&theme=midnight-purple)](https://github.com/Anish1337/github-readme-stats)
-![Anish's GitHub stats](github-readme-stats-anish.vercel.app/api?username=Anish1337&theme=midnight-purple&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats-anish.vercel.app/api/top-langs/?username=Anish1337&layout=pie&theme=midnight-purple)](https://github.com/Anish1337/github-readme-stats)
+![Anish's GitHub stats](https://github-readme-stats-anish.vercel.app/api?username=Anish1337&theme=midnight-purple&hide=contribs,prs)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Anish1337&theme=midnight-purple)](https://git.io/streak-stats)
 <hr/>
