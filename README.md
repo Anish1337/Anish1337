@@ -34,5 +34,5 @@
 
 
 <br/><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anish1337&layout=pie)](https://github.com/Anish1337/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anish1337&layout=pie&theme=midnight-purple)](https://github.com/Anish1337/github-readme-stats)
 <hr/>
