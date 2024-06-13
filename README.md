@@ -1,10 +1,14 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+there!+👋;+I'm+Anish+Tiwari!;" />
 </h1>
+<div align="center">
+ 
+🌱 Working on several data science projects.
+🧠 Learning TensorFlow, SQL, and SAS.  
+⚡ Hobbies include video games, badminton, and chess.
 
-* 🌱 Working on several data science projects.
-* 🧠 Learning TensorFlow, SQL, and SAS.  
-* ⚡ Hobbies include video games, badminton, and chess.
+ </div>
+
   
 #### 📫 How to reach me: 
 <a href="mailto:anishtiwari425@gmail.com" target="_blank" rel="noopener noreferrer"><img align="left" alt="" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>
