@@ -15,7 +15,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=linux,vscode,neovim,github,bash,tensorflow,unity" />
-    <img src="https://skillicons.dev/icons?i=python,r,java,cpp,c" /><br>
+<br/>    <img src="https://skillicons.dev/icons?i=python,r,java,cpp,c" /><br>
 </div>
 
 
