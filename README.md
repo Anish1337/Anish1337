@@ -11,7 +11,7 @@
 
   
 <div align="center"> 
-  <a href="anishtiwari425@gmail.com">
+  <a href="mailto:anishtiwari425@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/anish-tiwari--/" target="_blank">
