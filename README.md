@@ -1,5 +1,4 @@
-### Hey!  ###
-![wavegif_1860](https://github.com/Anish1337/Anish1337/assets/15726203/60015b35-7ffe-4d63-8bee-ae57d6f17ab0)
+### Hey!  ###![waving-wave-hello](https://github.com/Anish1337/Anish1337/assets/15726203/366005fe-c493-43a5-86d4-b74c89f4d25f)
 
 * 🌱 Working on several data science projects.
 * 🧠 Learning TensorFlow, SQL, and SAS.  
