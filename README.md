@@ -41,5 +41,5 @@
 </div>
 
 <br/><br/>
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anish1337)](https://github.com/Anish1337/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anish1337)](https://github.com/Anish1337/github-readme-stats)
 <hr/>
