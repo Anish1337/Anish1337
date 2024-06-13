@@ -39,9 +39,10 @@
   <img width=325 align="center" src="https://github-readme-stats-anish.vercel.app/api/top-langs/?username=Anish1337&hide=HTML&langs_count=8&layout=compact&theme=midnight-purple&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
+![Anish's GitHub stats](https://github-readme-stats-anish.vercel.app/api?username=Anish1337&theme=midnight-purple&hide=contribs,prs)
 
 <br/><br/>
-[![Top Langs](https://github-readme-stats-anish.vercel.app/api/top-langs/?username=Anish1337&layout=pie&theme=midnight-purple)](https://github.com/Anish1337/github-readme-stats)
-<>![Anish's GitHub stats](https://github-readme-stats-anish.vercel.app/api?username=Anish1337&theme=midnight-purple&hide=contribs,prs)
+<!--[![Top Langs](https://github-readme-stats-anish.vercel.app/api/top-langs/?username=Anish1337&layout=pie&theme=midnight-purple)](https://github.com/Anish1337/github-readme-stats)
+![Anish's GitHub stats](https://github-readme-stats-anish.vercel.app/api?username=Anish1337&theme=midnight-purple&hide=contribs,prs)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Anish1337&theme=midnight-purple)](https://git.io/streak-stats)
 <hr/>
