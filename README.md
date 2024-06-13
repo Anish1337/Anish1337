@@ -1,4 +1,4 @@
-### Hey!  ###![waving-wave-hello](https://github.com/Anish1337/Anish1337/assets/15726203/366005fe-c493-43a5-86d4-b74c89f4d25f)
+### Hey there!###
 
 * 🌱 Working on several data science projects.
 * 🧠 Learning TensorFlow, SQL, and SAS.  
