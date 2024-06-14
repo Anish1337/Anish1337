@@ -7,7 +7,7 @@
  
 🌱 Working on several data science projects.  
 🧠 Learning TensorFlow, SQL, and SAS.  
-⚡ Hobbies include video games, badminton, and chess.  
+🎮 Hobbies include video games, badminton, and chess.  
 
  </div>
 
