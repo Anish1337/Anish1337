@@ -6,7 +6,7 @@
 <div align="center">
  
 🌱 Working on several machine learning projects.  
-🧠 Learning TensorFlow, SQL, and SAS.  
+🧠 Learning TensorFlow, SQL, and Go.  
 🎮 Hobbies include video games, badminton, and chess.  
 
  </div>
