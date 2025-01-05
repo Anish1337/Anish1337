@@ -6,7 +6,7 @@
 <div align="center">
  
 🌱 Working on several machine learning projects.  
-🧠 Learning Docker, SQL, and Go.  
+🧠 Learning Go, SQL, and Docker.  
 🎮 Hobbies include video games, badminton, and chess.  
 
  </div>
