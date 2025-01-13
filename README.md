@@ -8,7 +8,6 @@
 🌱 Working on several machine learning projects.  
 🧠 Learning Go, SQL, and Docker.  
 🎮 Hobbies include video games, badminton, and chess.  
-
  </div>
 
   
