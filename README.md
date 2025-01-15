@@ -23,7 +23,7 @@
 <h2 align="center">⚒️ Languages/Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,java,cpp,c,html,css,golang,javascript,lua" /><br/>   
+  <img src="https://skillicons.dev/icons?i=python,r,java,cpp,c,golang,javascript,lua" /><br/>   
     <img src="https://skillicons.dev/icons?i=linux,vscode,neovim,github,bash,tensorflow" />
 <br/>    
 </div>
