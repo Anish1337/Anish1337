@@ -44,3 +44,9 @@
 ![Anish's GitHub stats](https://github-readme-stats-anish.vercel.app/api?username=Anish1337&theme=midnight-purple&hide=contribs,prs)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Anish1337&theme=midnight-purple)](https://git.io/streak-stats)
 <hr/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
