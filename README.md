@@ -5,8 +5,8 @@
 <br/>
 <div align="center">
  
-🌱 Working on several machine learning projects.  
-🧠 Learning Go, SQL, and C.  
+🌱 Working on quant projects.
+🧠 Learning Go, C++, and Kubernetes.  
 🎮 Hobbies include video games, badminton, and chess.  
  </div>
 
