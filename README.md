@@ -34,8 +34,6 @@
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com?user=Anish1337&theme=midnight-purple&border_radius=10" alt="streak stats"/>
 </div>
-
-
 <br/><br/>
 
 <picture>
