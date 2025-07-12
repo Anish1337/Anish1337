@@ -6,7 +6,7 @@
 <div align="center">
  
 🌱 Working on finance projects.  
-🧠 Learning Go, C++, and Kubernetes.  
+🧠 Learning C++, C, and Kubernetes.  
 🎮 Hobbies include video games, badminton, and chess.  
  </div>
 
