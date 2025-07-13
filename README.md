@@ -6,7 +6,7 @@
 <div align="center">
  
 🌱 Working on finance projects.  
-🧠 Learning C++
+🧠 Learning C++  
 🎮 Hobbies include video games, badminton, and chess.  
  </div>
 
