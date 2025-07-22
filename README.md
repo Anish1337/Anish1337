@@ -24,7 +24,7 @@
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,r,lua" /><br/>   
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,arch,linux,vscode,neovim,github,bash,tensorflow,arch" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,arch,neovim,linux,vscode,github,bash" />
 <br/>    
 </div>
 
