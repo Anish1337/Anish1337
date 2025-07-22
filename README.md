@@ -3,10 +3,9 @@
 </h1>
 <h3 align="center">Finance Systems Analyst | Recent Stats Grad | AI/ML Projects</h3>
 <br/>
-<div align="center">  
-    
+<div align="center">    
 🌱 Working on finance projects.  
-🧠 Learning C++ (20) and OCaml  
+🧠 Learning C++(20) and OCaml  
 🎮 Hobbies include video games, badminton, and chess.  
  </div>
 
