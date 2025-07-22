@@ -6,7 +6,7 @@
 <div align="center">  
     
 🌱 Working on finance projects.  
-🧠 Learning C++  
+🧠 Learning C++ and OCaml
 🎮 Hobbies include video games, badminton, and chess.  
  </div>
 
@@ -24,7 +24,7 @@
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,r,lua" /><br/>   
-    <img src="https://skillicons.dev/icons?i=pytorch,linux,vscode,neovim,github,bash,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,arch,linux,vscode,neovim,github,bash,tensorflow,arch" />
 <br/>    
 </div>
 
