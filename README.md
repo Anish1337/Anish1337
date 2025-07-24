@@ -6,7 +6,7 @@
 <div align="center">    
     
 🌱 Working on finance and game dev projects.  
-🧠 Learning C++(20) and Godot.
+🧠 Learning C++(20) and Godot.  
 🎮 Hobbies include video games, badminton, and chess.  
  </div>
 
