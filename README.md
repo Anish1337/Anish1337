@@ -33,7 +33,6 @@
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com?user=Anish1337&theme=midnight-purple&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-anish.vercel.app/api/top-langs/?username=Anish1337&layout=pie&theme=midnight-purple" alt="streak stats"/>
 </div>
 <br/><br/>
 
@@ -41,9 +40,4 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anish1337/Anish1337/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anish1337/Anish1337/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-<!--[![Top Langs](https://github-readme-stats-anish.vercel.app/api/top-langs/?username=Anish1337&layout=pie&theme=midnight-purple)](https://github.com/Anish1337/github-readme-stats)
-![Anish's GitHub stats](https://github-readme-stats-anish.vercel.app/api?username=Anish1337&theme=midnight-purple&hide=contribs,prs)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Anish1337&theme=midnight-purple)](https://git.io/streak-stats)
-<hr/>
-
+</picture>  
