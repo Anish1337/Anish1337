@@ -5,7 +5,7 @@
 <br/>
 <div align="center">    
     
-🌱 Working on quant dev.
+🌱 Working on quant dev.  
 🧠 Learning C++(20).  
 🎮 Hobbies include video games, badminton, and chess.  
  </div>
