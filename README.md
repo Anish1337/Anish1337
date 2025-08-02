@@ -5,9 +5,9 @@
 <br/>
 <div align="center">    
     
-🌱 Working on quant dev.  
-🧠 Learning C++(20).  
-🎮 Hobbies include video games, badminton, and chess.  
+🌱 Working on finance projects  
+🧠 Learning C++(20)  
+🎮 Hobbies include video games, badminton, and chess  
  </div>
 
   
