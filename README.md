@@ -5,7 +5,7 @@
 <br/>
 <div align="center">    
     
-🌱 Working on trade_sim (backtester + statistical arbitrage)
+🌱 Working on trade_sim (backtester + statistical arbitrage)  
 🧠 Learning C++ (20)  
 🎮 Hobbies include video games, badminton, and chess  
  </div>
