@@ -6,7 +6,7 @@
 <div align="center">   
 
   
-### 🍁 C++ August 🍁  
+# 🍁 C++ August 🍁  
 🌱 Working on quant dev (see pinned)  
 🧠 Mastering C++ (20)  
 🎮 Hobbies include video games, badminton, and chess  
