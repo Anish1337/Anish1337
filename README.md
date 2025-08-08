@@ -6,7 +6,7 @@
 <div align="center">    
     
 ### 🍁August update🍁
-🌱 Working on quant projects (see pinned)  
+🌱 Working on quant dev (see pinned)  
 🧠 Learning C++ (20)  
 🎮 Hobbies include video games, badminton, and chess  
  </div>
