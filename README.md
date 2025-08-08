@@ -4,10 +4,9 @@
 <h3 align="center">Finance Systems Analyst | Purdue Stats Grad | AI/ML Projects</h3>
 <br/>
 <div align="center">    
-    
-### 🍁C++ August🍁
+### 🍁 C++ August 🍁
 🌱 Working on quant dev (see pinned)  
-🧠 Learning C++ (20)  
+🧠 Mastering C++ (20)  
 🎮 Hobbies include video games, badminton, and chess  
  </div>
 
