@@ -3,7 +3,9 @@
 </h1>
 <h3 align="center">Finance Systems Analyst | Purdue Stats Grad | AI/ML Projects</h3>
 <br/>
-<div align="center">    
+<div align="center">   
+
+  
 ### 🍁 C++ August 🍁  
 🌱 Working on quant dev (see pinned)  
 🧠 Mastering C++ (20)  
