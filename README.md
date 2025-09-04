@@ -31,12 +31,14 @@
 </div>
 
 <hr/>
+<!--
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com?user=Anish1337&theme=midnight-purple&border_radius=10" alt="streak stats"/>
 </div>
 <br/><br/>
+--!>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anish1337/Anish1337/output/github-snake-dark.svg" />
