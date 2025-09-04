@@ -6,9 +6,9 @@
 <div align="center">   
 
   
-# 🍁 C++ August 🍁  
+# 🍂 Codeforces September 🍂  
 🌱 Working on quant dev (see pinned)  
-🧠 Mastering C++ (20)  
+🧠 Mastering C++(20)  
 🎮 Hobbies include video games, badminton, and chess  
  </div>
 
