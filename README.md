@@ -6,7 +6,7 @@
 <div align="center">   
 
   
-# 🍂 Codeforces September 🍂  
+# 🎃C++ October🎃 
 🌱 Working on trade_sim (quant dev)  
 🧠 Mastering C++(20)  
 🎮 Hobbies include video games, badminton, and chess  
