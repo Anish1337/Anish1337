@@ -45,5 +45,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anish1337/Anish1337/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>  
-
+<!--
 ![Chess Rating Trend](rating_trend.svg)
+--!>
