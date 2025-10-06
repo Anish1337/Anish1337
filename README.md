@@ -8,7 +8,7 @@
   
 # 🎃C++ October🎃 
 🌱 Working on trade_sim (quant dev)  
-🧠 Mastering C++(20)  
+🧠 Mastering C++(20) and Python  
 🎮 Hobbies include video games, badminton, and chess  
  </div>
 
@@ -45,6 +45,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anish1337/Anish1337/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>  
-<!--
+
+<!-- Fix this later
 ![Chess Rating Trend](rating_trend.svg)
 --!>
