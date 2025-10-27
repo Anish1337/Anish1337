@@ -6,7 +6,7 @@
 <div align="center">   
 
   
-# 🎃Python/Pandas October🎃 
+# 🎃More C++ November🎃 
 🌱 Expanding trade_sim (quant dev)  
 🧠 Mastering C++(20) and Python  
 🎮 Hobbies include video games, badminton, and chess  
