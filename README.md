@@ -6,7 +6,7 @@
 <div align="center">   
 
   
-# 🍂 Systems November 🍂
+# 🍂 Concurrency November 🍂
 🌱 Expanding trade_sim (quant dev)  
 🧠 Mastering C++(20) and Python  
 🎮 Hobbies include video games, badminton, and chess  
