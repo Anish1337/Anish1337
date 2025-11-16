@@ -8,7 +8,7 @@
   
 # 🍂 Concurrency November 🍂
 🌱 Expanding trade_sim (quant dev)  
-🧠 Mastering C++(20) and Python  
+🧠 Mastering C++ and Python  
 🎮 Hobbies include video games, badminton, and chess  
  </div>
 
