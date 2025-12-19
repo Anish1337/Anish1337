@@ -7,7 +7,7 @@
 
   
 # ❄️ Concurrency December ❄️
-🌱 Optimizing lob_cpp (quant dev)  
+🌱 Extending lob_cpp (quant dev)  
 🧠 Mastering C++ and Python  
 🎮 Hobbies include video games, badminton, and chess  
  </div>
