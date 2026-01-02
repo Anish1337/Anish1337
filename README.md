@@ -5,8 +5,6 @@
 <br/>
 <div align="center">   
 
-  
-# ❄️ Concurrency December ❄️
 🌱 Extending lob_cpp (quant dev)  
 🧠 Mastering C++ and Python  
 🎮 Hobbies include video games, badminton, and chess  
