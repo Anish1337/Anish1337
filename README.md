@@ -5,7 +5,7 @@
 <br/>
 <div align="center">   
 
-🌱 Working on custom shell and raycaster
+🌱 Working on custom shell and raycaster  
 🧠 Mastering C++ and Python  
 🎮 Hobbies include video games, badminton, and chess  
  </div>
