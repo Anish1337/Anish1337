@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+there!+👋;+I'm+Anish+Tiwari!;" />
 </h1>
 <h3 align="center">Finance Systems Analyst | Purdue Stats Grad <h3/>
-<br/>
+
 <div align="center">   
 
 🌱 Working on low level projects  
