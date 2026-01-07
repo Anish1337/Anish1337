@@ -6,7 +6,7 @@
 <div align="center">   
 
  
-# ✨ January Projects ✨
+# ✨ Jan 2026 Focus ✨
 lob_cpp, ray_tracer, self_host, and shell  
  </div>
  
