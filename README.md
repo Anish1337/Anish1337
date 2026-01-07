@@ -7,9 +7,9 @@
 
  
 # ✨ Custom Shell January ✨
-🌱 Working on low level projects  
-🧠 Mastering C++  
-🎮 Hobbies include video games and chess  
+🌱 low level projects  
+🧠 C++  
+🎮 video games and chess  
  </div>
  
 <div align="center"> 
