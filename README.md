@@ -7,8 +7,8 @@
 
  
 # ✨ Custom Shell January ✨
-🤖 Expanding lob_cpp, raycaster, shell
-🏎️ Mastering advanced C++  
+🤖 Expanding lob_cpp, raycaster, shell  
+🏎️ Mastering advanced C++ (23)  
 🎮 Enjoying video games and chess  
  </div>
  
