@@ -7,8 +7,7 @@
 
  
 # ✨ January Projects ✨
-🤖 lob_cpp, ray_tracer, self_host, and shell  
-🏎️ C++ (23)  
+lob_cpp, ray_tracer, self_host, and shell  
  </div>
  
 <div align="center"> 
