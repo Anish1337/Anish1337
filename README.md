@@ -7,7 +7,7 @@
 
  
 # ✨ Custom Shell January ✨
-🤖 Optimizing low level systems  
+🤖 Expanding lob_cpp, raycaster, shell
 🏎️ Mastering advanced C++  
 🎮 Enjoying video games and chess  
  </div>
