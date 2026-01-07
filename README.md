@@ -6,7 +6,7 @@
 <div align="center">   
 
  
-# ❄️ Concurrency December ❄️
+# ✨ Custom Shell January ✨
 🌱 Working on low level projects  
 🧠 Mastering C++  
 🎮 Hobbies include video games and chess  
