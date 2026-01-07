@@ -7,9 +7,12 @@
 
  
 # ✨ Custom Shell January ✨
-🤖 Expanding lob_cpp, raytracer, shell  
-🏎️ Mastering advanced C++ (23)  
-🎮 Enjoying video games and chess  
+🤖 Working on
+* lob_cpp, ray_tracer, self_host, shell  
+🏎️ Mastering 
+* advanced C++ (23)  
+🎮 Enjoying 
+* video games and chess  
  </div>
  
 <div align="center"> 
