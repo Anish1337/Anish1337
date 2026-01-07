@@ -6,13 +6,9 @@
 <div align="center">   
 
  
-# ✨ Custom Shell January ✨
-🤖 Working on
-* lob_cpp, ray_tracer, self_host, shell  
-🏎️ Mastering 
-* advanced C++ (23)  
-🎮 Enjoying 
-* video games and chess  
+# ✨ January Projects ✨
+🤖 lob_cpp, ray_tracer, self_host, and shell  
+🏎️ C++ (23)  
  </div>
  
 <div align="center"> 
