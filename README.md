@@ -7,7 +7,7 @@
 
 🌱 Working on low level projects  
 🧠 Mastering C++ and Python  
-🎮 Hobbies include video games, badminton, and chess  
+🎮 Hobbies include video games and chess  
  </div>
 
   
