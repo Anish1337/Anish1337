@@ -7,9 +7,9 @@
 
  
 # ✨ Custom Shell January ✨
-🤖 optimizing low level systems  
-🏎️ mastering advanced C++  
-🎮 enjoying video games and chess  
+🤖 Optimizing low level systems  
+🏎️ Mastering advanced C++  
+🎮 Enjoying video games and chess  
  </div>
  
 <div align="center"> 
