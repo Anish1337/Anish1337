@@ -5,7 +5,7 @@
 <br/>
 <div align="center">   
 
-🌱 Working on low level projects
+🌱 Working on low level projects  
 🧠 Mastering C++ and Python  
 🎮 Hobbies include video games, badminton, and chess  
  </div>
