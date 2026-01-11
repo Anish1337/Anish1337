@@ -5,9 +5,7 @@
 
 <div align="center">   
 
- 
-# ✨ Jan 2026 Focus ✨
-lob_cpp, ray_tracer, self_host, shell  
+
  </div>
  
 <div align="center"> 
