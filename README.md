@@ -6,7 +6,7 @@
 <div align="center">
 ⚙️ Projects: Building a low-latency order book<br>
 🧠 Focus: Modern C++23, Python, and DSA<br>
-🎮 Interests: Chess, graphics programming, and games
+🎮 Interests:  Chess, Video games, Graphics programming
 </div>
 
 <div align="center"> 
