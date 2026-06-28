@@ -4,9 +4,9 @@
 <h3 align="center">Aspiring Quant Dev | Purdue Stats Grad</h3>
 
 <div align="center">
-⚙️ Projects: Building a low-latency order book<br>
-🧠 Focus: Modern C++23, Python, and DSA<br>
-🎮 Interests:  Chess, Video games, Graphics programming
+<strong>⚙️ Projects:</strong> Optimized order book & strategic backtester<br>
+<strong>🧠 Focus:</strong> Modern C++23, Python, and DSA<br>
+<strong>🎮 Interests:</strong> Chess, graphics programming, and gaming
 </div>
 
 <div align="center"> 
