@@ -4,7 +4,7 @@
 <h3 align="center">Aspiring Quant Dev | Purdue Stats Grad<h3/>
 
 <div align="center">   
-⚙️ Building a low-latency order book  
+⚙️ Building a low-latency order book  \n
 🧠 Mastering Modern C++23, Python, and DSA  
 🎮 Video games, badminton, chess and exploring graphics programming  
  </div>
