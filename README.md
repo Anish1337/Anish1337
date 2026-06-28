@@ -3,12 +3,12 @@
 </h1>
 <h3 align="center">Aspiring Quant Dev | Purdue Stats Grad<h3/>
 
-<div align="center">   
-⚙️ Building a low-latency order book  \n
-🧠 Mastering Modern C++23, Python, and DSA  
-🎮 Video games, badminton, chess and exploring graphics programming  
- </div>
- 
+<div align="center">
+⚙️ Building a low-latency order book<br>
+🧠 Mastering Modern C++23, Python, and DSA<br>
+🎮 Video games, badminton, chess, and exploring graphics programming<br>
+</div>
+
 <div align="center"> 
   <a href="mailto:anishtiwari425@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -27,21 +27,9 @@
 </div>
 
 <hr/>
-<!--
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com?user=Anish1337&theme=midnight-purple&border_radius=10" alt="streak stats"/>
-</div>
-<br/><br/>
---!>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anish1337/Anish1337/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anish1337/Anish1337/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>  
-
-<!-- Fix this later
-![Chess Rating Trend](rating_trend.svg)
---!>
