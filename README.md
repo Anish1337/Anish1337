@@ -6,7 +6,7 @@
 <div align="center">
 <strong>🧠 Focus:</strong> Modern C++23 and Python<br>
 <strong>⚙️ Projects:</strong> Optimized order book & strategic backtester<br>
-<strong>🎮 Interests:</strong> Chess, graphics programming, and gaming
+<strong>🎮 Interests:</strong> Chess, gaming, graphics programming
 </div>
 
 <div align="center"> 
