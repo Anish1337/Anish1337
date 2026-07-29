@@ -32,7 +32,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anish1337/Anish1337/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anish1337/Anish1337/output/github-snake.svg" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anish1337&layout=compact)
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anish1337&layout=compact)
