@@ -5,7 +5,7 @@
 
 <div align="center">
 <strong>🧠 Focus:</strong> Modern C++23 • Python • DSA<br>
-<strong>⚙️ Projects:</strong>  Market data ingestor • Low latency order book • Quantitative backtester<br>
+<strong>⚙️ Projects:</strong>  Low latency order book • Quantitative backtester<br>
 <strong>🎮 Interests:</strong> Systems • Graphics • Chess
 </div>
 
