@@ -35,4 +35,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anish1337&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/Anish1337)
