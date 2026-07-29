@@ -6,7 +6,7 @@
 <div align="center">
 <strong>🧠 Focus:</strong> Modern C++23 • Python • DSA<br>
 <strong>⚙️ Projects:</strong> Low-latency order book • Quantitative backtester<br>
-<strong>🎮 Interests:</strong> Chess • Gaming • Graphics
+<strong>🎮 Interests:</strong> Chess • Systems • Graphics
 </div>
 
 <div align="center"> 
@@ -21,8 +21,8 @@
 <h2 align="center">⚒️ Languages/Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,r,lua,bash" /><br/>   
-    <img src="https://skillicons.dev/icons?i=pytorch,arch,linux,neovim,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,lua,bash" /><br/>   
+    <img src="https://skillicons.dev/icons?i= cmake,pytorch,arch,linux,neovim,vscode,github" />
 
 <br/>    
 </div>
