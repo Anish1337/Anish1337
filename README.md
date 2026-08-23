@@ -4,9 +4,9 @@
 <h3 align="center">Aspiring Quant Dev | Purdue Stats Grad</h3>
 
 <div align="center">
-<strong>🧠 Focus:</strong> Modern C++23 • Python<br>
-<strong>⚙️ Projects:</strong>  Low latency order book • Quantitative backtester<br>
-<strong>🎮 Interests:</strong> Systems • Finance • Graphics 
+  <strong>🧠 Focus:</strong> Modern C++ • Python<br>
+  <strong>⚙️ Currently Building:</strong> Low-Latency Order Book • Quantitative Backtester<br>
+  <strong>🔬 Interests:</strong> Systems • Quantitative Finance • Computer Graphics
 </div>
 
 <div align="center"> 
