@@ -5,7 +5,7 @@
 
 <div align="center">
   <strong>🧠 Focus:</strong> Modern C++ • Python<br>
-  <strong>⚙️ Currently Building:</strong> Order Book • Option Pricer<br>
+  <strong>📚 Currently:</strong> Advanced C++ • DSA • Concurrency<br>
   <strong>🔬 Interests:</strong> Systems • Quantitative Finance • Computer Graphics
 </div>
 
