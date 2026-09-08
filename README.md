@@ -5,8 +5,8 @@
 
 <div align="center">
   <strong>🧠 Focus:</strong> Modern C++ • Python<br>
-  <strong>📚 Currently:</strong> Advanced C++ • DSA • Concurrency<br>
-  <strong>🔬 Interests:</strong> Systems • Quantitative Finance • Computer Graphics
+  <strong> 🛠️ Building:</strong> cpp_clob • cpp_ml<br>
+  <strong>🔬 Interests:</strong> Quantitative Finance • Machine Learning • Computer Graphics
 </div>
 
 <div align="center"> 
@@ -33,4 +33,4 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anish1337/Anish1337/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anish1337/Anish1337/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>  
+</picture> 
