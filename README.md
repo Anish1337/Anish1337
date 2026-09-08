@@ -4,8 +4,8 @@
 <h3 align="center">Aspiring Quant Dev | Purdue Stats Grad</h3>
 
 <div align="center">
-  <strong>🧠 Focus:</strong> Modern C++ • Python<br>
-  <strong> 🛠️ Building:</strong> cpp_clob • cpp_ml<br>
+  <strong>🧠 Focus:</strong> Modern C++<br>
+  <strong> 🛠️ Building:</strong> cpp_clob • cpp_nn<br>
   <strong>🔬 Interests:</strong> Quant Dev • ML • Graphics
 </div>
 
