@@ -6,7 +6,7 @@
 <div align="center">
   <strong>🧠 Focus:</strong> Modern C++ • Python<br>
   <strong> 🛠️ Building:</strong> cpp_clob • cpp_ml<br>
-  <strong>🔬 Interests:</strong> Quantitative Finance • ML • Graphics
+  <strong>🔬 Interests:</strong> Quant Dev • ML • Graphics
 </div>
 
 <div align="center"> 
