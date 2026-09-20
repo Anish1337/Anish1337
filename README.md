@@ -6,7 +6,7 @@
 <div align="center">
   <strong>🧠 Focus:</strong> Modern C++<br>
   <strong> 🛠️ Building:</strong> cpp_clob • cpp_ml • phylactery<br> 
-  <strong>🔬 Interests:</strong> Quant Dev • ML • Graphics
+  <strong>🔬 Interests:</strong> Systems • Graphics • ML/AI
 </div>
 
 <div align="center"> 
