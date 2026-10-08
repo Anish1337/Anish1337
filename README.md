@@ -5,7 +5,7 @@
 
 <div align="center">
   <strong>🧠 Focus:</strong> Modern C++/Rust <br>
-  <strong> 🛠️ Building:</strong> clob • build-your-own-redis • phylactery<br> 
+  <strong> 🛠️ Building:</strong> cpp_clob • rust_redis • vulkan_triangle<br> 
   <strong>🔬 Interests:</strong> Systems • ML/AI • Graphics
 </div>
 
