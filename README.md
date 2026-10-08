@@ -4,8 +4,8 @@
 <h3 align="center">Aspiring Systems Dev | Purdue Stats Grad</h3>
 
 <div align="center">
-  <strong>🧠 Focus:</strong> Modern C++<br>
-  <strong> 🛠️ Building:</strong> cpp_clob • cpp_ml • phylactery<br> 
+  <strong>🧠 Focus:</strong> Systems Programming <br>
+  <strong> 🛠️ Building:</strong> cpp_clob • rust_nn • phylactery<br> 
   <strong>🔬 Interests:</strong> Systems • Graphics • ML/AI
 </div>
 
