@@ -5,7 +5,7 @@
 
 <div align="center">
   <strong>🧠 Focus:</strong> Systems Programming <br>
-  <strong> 🛠️ Building:</strong> cpp_clob • rust_nn • phylactery<br> 
+  <strong> 🛠️ Building:</strong> clob • build-your-own-redis • phylactery<br> 
   <strong>🔬 Interests:</strong> Systems • Graphics • ML/AI
 </div>
 
