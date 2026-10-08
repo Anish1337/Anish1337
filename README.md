@@ -6,7 +6,7 @@
 <div align="center">
   <strong>🧠 Focus:</strong> Modern C++/Rust <br>
   <strong> 🛠️ Building:</strong> clob • build-your-own-redis • phylactery<br> 
-  <strong>🔬 Interests:</strong> Systems • Graphics • ML/AI
+  <strong>🔬 Interests:</strong> Systems • ML/AI • Graphics
 </div>
 
 <div align="center"> 
