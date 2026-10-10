@@ -5,7 +5,7 @@
 
 <div align="center">
   <strong>🧠 Focus:</strong> concurrency / networking <br>
-  <strong> 🛠️ Building:</strong> cpp_clob • rust_redis • love_poker<br> 
+  <strong> 🛠️ Building:</strong> clob • mini-redis • pixel-poker<br> 
   <strong>🔬 Interests:</strong> Systems • ML/AI • Graphics
 </div>
 
