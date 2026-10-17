@@ -4,9 +4,9 @@
 <h3 align="center">Aspiring Systems Dev | Purdue Stats Grad</h3>
 
 <div align="center">
-  <strong>🧠 Focus:</strong> concurrency / networking <br>
-  <strong> 🛠️ Building:</strong> clob • mini-redis • shell<br> 
-  <strong>🔬 Interests:</strong> Systems • ML/AI • Graphics
+  <strong>🧠:</strong> concurrency / networking <br>
+  <strong> 🛠️:</strong> clob • mini-redis • shell<br> 
+  <strong>🔬:</strong> Systems • ML/AI • Graphics
 </div>
 
 <div align="center"> 
