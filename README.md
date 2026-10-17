@@ -22,7 +22,7 @@
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,rust,python,lua,bash" /><br/>   
-    <img src="https://skillicons.dev/icons?i=cmake,cargo,linux,neovim,visualstudio,github,arch,pytorch" />
+<img src="https://skillicons.dev/icons?i=linux,arch,git,github,cmake,neovim,visualstudio,redis,pytorch" />
 
 <br/>    
 </div>
