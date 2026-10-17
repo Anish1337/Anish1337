@@ -4,9 +4,9 @@
 <h3 align="center">Aspiring Systems Dev | Purdue Stats Grad</h3>
 
 <div align="center">
-  <strong>🧠:</strong> concurrency / networking <br>
-  <strong> 🛠️:</strong> clob • mini-redis • shell<br> 
-  <strong>🔬:</strong> Systems • ML/AI • Graphics
+**Focus:** C++ / Rust · Systems & Networking  
+**Projects:** CLOB · Mini Redis · Shell  
+**Interests:** Quant Finance · ML/AI · Graphics
 </div>
 
 <div align="center"> 
