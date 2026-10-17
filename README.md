@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">Aspiring Systems Dev | Purdue Stats Grad</h3>
 
-<div align="center">
+<div align="center">  
 **Focus:** C++ / Rust · Systems & Networking  
 **Projects:** CLOB · Mini Redis · Shell  
 **Interests:** Quant Finance · ML/AI · Graphics
