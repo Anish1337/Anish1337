@@ -8,7 +8,7 @@
 <p align="center">
   <strong>Focus:</strong> C++ / Rust · Systems & Networking<br/>
   <strong>Projects:</strong> CLOB · Mini Redis · Shell<br/>
-  <strong>Interests:</strong> Quant Finance · ML/AI · Graphics
+  <strong>Interests:</strong> Quant Finance · Graphics · ML/AI
 </p>
 
 <div align="center">
