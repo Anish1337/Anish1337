@@ -6,8 +6,8 @@
 <h3 align="center">Aspiring Systems Dev | Purdue Stats Grad</h3>
 
 <p align="center">
-  <strong>Focus:</strong> C++ / Rust · Systems & Networking<br/>
-  <strong>Projects:</strong> CLOB · Mini Redis · Shell<br/>
+  <strong>Focus:</strong> C++ / Rust / Python <br/>
+  <strong>Projects:</strong> RoboSim · CLOB · rust-kafka<br/>
   <strong>Interests:</strong> Robotics · ML/AI · Graphics
 </p>
 
