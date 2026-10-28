@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+there!+👋;+I'm+Anish+Tiwari!;" />
 </h1>
 
-<h3 align="center">Aspiring Systems Dev | Purdue Stats Grad</h3>
+<h3 align="center">🤖</h3>
 
 <p align="center">
   <strong>Focus:</strong> C++ / Rust / Python <br/>
