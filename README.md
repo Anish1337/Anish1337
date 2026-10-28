@@ -7,7 +7,7 @@
 
 <p align="center">
   <strong>Focus:</strong> C++ / Rust / Python <br/>
-  <strong>Projects:</strong> RoboSim · CLOB · rust-kafka<br/>
+  <strong>Projects:</strong> roborust · CLOB<br/>
   <strong>Interests:</strong> Robotics · ML/AI · Graphics
 </p>
 
