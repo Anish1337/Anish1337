@@ -6,9 +6,9 @@
 <h3 align="center">🤖</h3>
 
 <p align="center">
-  <strong>Focus:</strong> C++ / Rust / Python <br/>
-  <strong>Projects:</strong> roborust<br/>
-  <strong>Interests:</strong> Robotics · ML/AI · Graphics
+  <strong>Focus:</strong> C++ / Python <br/>
+  <strong>Projects:</strong>mini-redis-cpp<br/>
+  <strong>Interests:</strong> Systems · ML/AI · Robotics
 </p>
 
 <div align="center">
