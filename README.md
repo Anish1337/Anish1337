@@ -7,7 +7,7 @@
 
 <p align="center">
   <strong>Focus:</strong> C++ / Python <br/>
-  <strong>Projects:</strong>mini-redis-cpp<br/>
+  <strong>Projects:</strong> mini-redis-cpp<br/>
   <strong>Interests:</strong> Systems · ML/AI · Robotics
 </p>
 
